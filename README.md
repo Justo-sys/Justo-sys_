@@ -36,6 +36,7 @@ An exploratory analysis investigating patterns associated with passenger surviva
 The project examines how characteristics such as sex, passenger class, age, fare, embarkation port, and family-related variables were associated with survival, moving from univariate analysis to bivariate and multivariate comparisons.
 
 **-> [View Project](https://github.com/Justo-sys/Passenger-Survival_Exploratory-Analysis-of-Survival-Patterns)**
+
 ---
 ### ✅ Netflix Content Data Quality & Wrangling
 
@@ -46,8 +47,19 @@ A data-quality and wrangling project focused on transforming a raw Netflix conte
 The project addresses a practical data problem: how can inconsistent, incomplete, and multi-valued raw data be systematically prepared for reliable downstream analysis?
 
 **-> [View_Project](https://github.com/Justo-sys/Netflix-Content-Data-Quality-Wrangling)**
----
 
+---
+### ✅ NHL Team Statistics: From Web Data to an Analysis-Ready Dataset
+
+**Python | Web Scraping | BeautifulSoup | Pandas**
+
+A web-data collection project focused on transforming publicly available NHL team statistics from an HTML webpage into a structured dataset suitable for downstream analysis.
+
+The project addresses a practical data problem: how can information published on the web be systematically collected and converted into reusable analytical data?
+
+**->[view_project](https://github.com/Justo-sys/NHL-Team-Statistics-From-Web-Data-to-an-Analysis-Ready-Dataset)
+
+---
 ## 🚧 Projects in Progress
 
 ### 🏥 Kenya Health Facility Accessibility & UHC Readiness
