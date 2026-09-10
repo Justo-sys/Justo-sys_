@@ -24,7 +24,7 @@ An interactive analysis of three years of Kenyan retail transaction data.
 
 The project addresses a practical retail problem: how can transaction records be transformed into a useful performance-monitoring tool for understanding sales performance, trends, sales-channel contribution, and returns?
 
-**→ View Project**
+**→ [View Project](https://github.com/Justo-sys/kenyan-ecommerce-sales-analysis)**
 
 ---
 
