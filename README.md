@@ -35,7 +35,7 @@ An exploratory analysis investigating patterns associated with passenger surviva
 
 The project examines how characteristics such as sex, passenger class, age, fare, embarkation port, and family-related variables were associated with survival, moving from univariate analysis to bivariate and multivariate comparisons.
 
-**->[View Project]()**
+**->[View Project](https://github.com/Justo-sys/Passenger-Survival_Exploratory-Analysis-of-Survival-Patterns)**
 ---
 
 ## 🚧 Projects in Progress
