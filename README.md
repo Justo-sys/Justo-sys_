@@ -14,9 +14,9 @@ I focus on understanding the question, assessing whether the available data can 
 
 ---
 
-## 📌 Selected Work
+## 📊 Selected Work
 
-### 🇰🇪 Kenyan E-Commerce Sales Performance Analysis
+### ✅ Kenyan E-Commerce Sales Performance Analysis
 
 **Power BI | Power Query | DAX**
 
@@ -24,19 +24,19 @@ An interactive analysis of three years of Kenyan retail transaction data.
 
 The project addresses a practical retail problem: how can transaction records be transformed into a useful performance-monitoring tool for understanding sales performance, trends, sales-channel contribution, and returns?
 
-**→ [View Project](./kenyan-ecommerce-sales-analysis)**
+**→ View Project**
 
 ---
+
+## 🚧 Projects in Progress
 
 ### 🏥 Kenya Health Facility Accessibility & UHC Readiness
 
 **Python | Statistics | GIS | Data Analysis**
 
-An analytical project examining the relationship between population distribution and health-facility capacity across Kenya.
+An ongoing health-system analytics project examining the relationship between population distribution and health-facility capacity across Kenya.
 
-The project focuses on identifying potential population–infrastructure mismatches while recognising the limitations of the available data.
-
-**→ [View Project](./kenya-health-facility-uhc-analysis)**
+The project is being developed as a reproducible analytical workflow, with particular attention to data quality, methodological limitations, and the distinction between what the available data can and cannot establish.
 
 ---
 
@@ -44,9 +44,9 @@ The project focuses on identifying potential population–infrastructure mismatc
 
 **Python | Topological Data Analysis | Machine Learning**
 
-A research-oriented project investigating the use of topological methods for detecting anomalous patterns in Safaricom PLC stock-price data.
+An ongoing research project investigating whether topological methods can identify anomalous patterns in Safaricom PLC stock-price data.
 
-**→ [View Project](./safaricom-stock-anomaly-detection)**
+The project explores topological data analysis alongside machine-learning benchmarking methods for anomaly detection.
 
 ---
 
@@ -54,9 +54,7 @@ A research-oriented project investigating the use of topological methods for det
 
 **Python | Statistics | Machine Learning**
 
-An analysis of financial inclusion data using statistical and machine-learning methods to investigate factors associated with access to formal banking services.
-
-**→ [View Project](./financial-inclusion-analysis)**
+An ongoing machine-learning analysis of financial inclusion data, investigating factors associated with access to formal banking services and evaluating predictive performance.
 
 ---
 
