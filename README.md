@@ -27,6 +27,16 @@ The project addresses a practical retail problem: how can transaction records be
 **→ [View Project](https://github.com/Justo-sys/Kenyan-E-Commerce-Sales-Analysis)**
 
 ---
+### ✅ Titanic Passenger Survival: Exploratory Analysis of Survival Patterns
+
+**Python | Statistics | Exploratory Data Analysis**
+
+An exploratory analysis investigating patterns associated with passenger survival on the Titanic.
+
+The project examines how characteristics such as sex, passenger class, age, fare, embarkation port, and family-related variables were associated with survival, moving from univariate analysis to bivariate and multivariate comparisons.
+
+**->[View Project]()**
+---
 
 ## 🚧 Projects in Progress
 
