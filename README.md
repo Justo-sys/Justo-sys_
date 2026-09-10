@@ -105,9 +105,9 @@ Strathmore University
 
 ## 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/justus-onyango-933092436)
 
-[Email](mailto:YOUR_EMAIL)
+[Email](mailto:justuso062@gmail.com)
 
 ---
 
